@@ -1,0 +1,11 @@
+{
+    "name": "Prueba",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#00000",
+    "short_name": "Notas",
+    "description":"Mis notas eve",
+    "theme_color": "#00000"
+    
+}
