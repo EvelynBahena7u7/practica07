@@ -8,7 +8,7 @@ self.addEventListener('install',(event) =>{
         return cache.addAll(
             [
                 '/',
-                'https://evelynbahena7u7.github.io/Practica07/index.html',
+                'https://evelynbahena7u7.github.io/practica07/index.html',
                 'https://evelynbahena7u7.github.io/Practica07/js/app.js',
                 'https://evelynbahena7u7.github.io/Practica07/manifest.json',
                 'https://evelynbahena7u7.github.io/Practica07/images/icons/android-launchericon-48-48',
